@@ -189,9 +189,7 @@ private split committed by hash, and the run flip rate.
 | 7 | Choose tiers at 930 or scale to about 3,700; freeze §4 (commit and hash) | You | Pre-registration committed |
 | 8 | Main run, then analysis exactly as pre-registered; publish the private split's hash | Claude | Done |
 
-Still open from Part A: accept or reject DC11 and DC38; fix the "[1 to 3]" wording on
-Jev's confident mistakes (7, 3 or 1 depending on the key); approve the public repo push;
-run Save Page Now on posting day.
+Part A's open decisions are tracked in the local `study2/STATUS.md`.
 
 ## 7. To continue in a cloud session
 
